@@ -1,5 +1,9 @@
 # 💫 About Me:
-MERN Stack Developer focused on building production-ready SaaS platforms with secure authentication, real-time systems, and AI integration.<br>Exploring Generative AI, Gemini API, and Retrieval-Augmented Generation (RAG) architectures.
+Full-Stack MERN & Next.js Developer with a strong focus on scalable SaaS architecture, secure authentication systems, and high-performance web applications. Skilled in building end-to-end solutions from database design to server-side logic and modern frontend interfaces.
+
+Actively working with Generative AI systems including Gemini API, RAG pipelines, vector search, embeddings, and autonomous tool-calling workflows to build intelligent, AI-powered applications.
+
+Passionate about clean architecture, system design, and combining web engineering with modern AI infrastructure.
 
 
 ## 🌐 Socials:
